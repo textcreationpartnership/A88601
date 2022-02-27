@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The love and faithfulnes of the Scottish nation the excellency of the covenant, the vnion between England and Scotland, cleared, by collections, from the [brace] declarations of Parliament, and, speeches of severall Independent brethren. By Theophilos.</title>
+            <author>Theophilos.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88601</idno>
+            <idno type="STC">Wing L3195</idno>
+            <idno type="STC">Thomason E341_26</idno>
+            <idno type="STC">ESTC R200922</idno>
+            <idno type="EEBO-CITATION">99861536</idno>
+            <idno type="PROQUEST">99861536</idno>
+            <idno type="VID">113673</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88601)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113673)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E341[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The love and faithfulnes of the Scottish nation the excellency of the covenant, the vnion between England and Scotland, cleared, by collections, from the [brace] declarations of Parliament, and, speeches of severall Independent brethren. By Theophilos.</title>
+                  <author>Theophilos.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F: Neile for Tho: Vnderhill at the signe of the Bible in Woodstreet.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On t.p., "Theophilos" is printed in Greek characters.</note>
+                  <note>Annotation on Thomason copy: "June 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113673:1" rendition="simple:additions"/>
+            <p>The Love and Faithfulnes of the <hi>Scottiſh</hi> Nation The Excellency of the <hi>Covenant,</hi> The <hi>Vnion</hi> between <hi>England</hi> and <hi>Scotland,</hi> cleared, by Collections, From the Declarations of <hi>Parliament,</hi> and, Speeches of ſeverall <hi>Independent</hi> Brethren. By Θεοφιλοσ.</p>
+            <q>
+               <bibl>Jerem: 34.8.</bibl> The King <hi>Zedekiah</hi> made a <hi>Covenant</hi> with the people, <bibl>v. 11.</bibl> Re<g ref="char:EOLhyphen"/>pented: <bibl>v. 17.</bibl> Therefore thus ſaith the <hi>Lord,</hi> 
+               <bibl>v. 18.</bibl> I will give thoſe men that have broke <hi>my Covenant,</hi> 
+               <bibl>v. 20.</bibl> into the hands of their Enemies.</q>
+            <q>
+               <bibl>
+                  <hi>John 15.14.</hi>
+               </bibl>Ye are my friends, if ye do what ſoever I command you.</q>
+            <q>The way to keep all things in <hi>Union,</hi> is for every man to keep within his bounds; the ſwelling beyond tends to the breaking all in pieces. <bibl>Mr. <hi>Bur: Irenicum p. 112.</hi>
+               </bibl>
+            </q>
+            <q>Nihil pernicioſius quam diviſio, nihil melius quam Vnio. <bibl>Plato de Rep.</bibl>
+            </q>
+            <q>Si pacem diligis, Belli ne feceris mentionem. <bibl>Sen. de Moribus.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>F: Neile</hi> for <hi>Tho: <g ref="char:V">Ʋ</g>nderhill</hi> at the Signe of the Bible in Woodſtreet. 1646.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:113673:2"/>
+            <head>The Preamble.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He times we are fallen into are times of Fear, and there<g ref="char:EOLhyphen"/>fore had need be times of Prayer: It is the beſt uſe a Chriſtian can make of fears to turn them into Prayers: Never more profeſſion and leſſe practiſe ſince the crea<g ref="char:EOLhyphen"/>tion of all things: Confuſion and deſolation is at hand, yet who conſiders it? How are mens tongues and pens employed to work diviſion, not between man and man, Brother and Bro<g ref="char:EOLhyphen"/>ther onely; but between Kingdom and Kingdom, and between ſuch King<g ref="char:EOLhyphen"/>doms as are obliged by the ſtrongeſt bonds, this ſtate of mortalitie is capable of: this is it that heightens our miſery, and without timely prevention will work our ruine: <hi>God will (certainly) avenge the quarrell of his Covenant.</hi> It is not many dayes ſince a Paper came abroad by a nameleſſe Author, hinting at the Brotherly Reſpects of <hi>England</hi> to <hi>Scotland,</hi> with an addition of large Encemions of this Nation for their voluntary and free aſſiſtance, in the times of their progenitors, when they were in great diſtreſſe; ſince which there are two ſeverall Pamphlets, bending their ſtrength againſt the City Remonſtrance; one of which <hi>Report</hi> ſpeaks Mr. <hi>John Goodwin</hi> the Author of, the Dialect (at leaſt) one of his Frater<g ref="char:EOLhyphen"/>nity: both of them concurring to diſparage our Brethrens proceedings, and all of them triumphing at the prize of a Brotherly Confeſſion. I am igno<g ref="char:EOLhyphen"/>rant of the end, and fully aſſured of the <hi>unſeaſonableneſſe</hi> and <hi>need<g ref="char:EOLhyphen"/>leſneſſe</hi> of ſuch memorandums, which our <hi>Brethren</hi> ſo frequently have made mention of in their Declarations and Remonſtrances unto this Kingdom; more particularly in their Reaſons for aſſiſting <hi>England</hi> upon the requeſt of both Houſes of <hi>Parliament</hi> in the yeer <hi>1643.</hi> 
+               <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>leſſe it be to endeavour a withdrawing of that Brotherly love and reſpect we owe unto them; At the beſt it reflects upon their preſent expedition into
+<pb facs="tcp:113673:2"/>
+               <hi>England,</hi> as if it were but a bare requitall of former kindnes, and this not fully granted; although it be acknowledged by the Honorable Houſes of <hi>Parliament,</hi> and our <hi>Independent</hi> Brethren, as a buſines of ſo great con<g ref="char:EOLhyphen"/>cernment, which ſhould oblige <hi>England</hi> in thankefulneſſe unto them for ever; which doth certainly evidence ſomething more to be in their under<g ref="char:EOLhyphen"/>taking in the behalf of <hi>England,</hi> then is talked of by undiſcerning Spi<g ref="char:EOLhyphen"/>rits, that watch for any thing that may in the leaſt manner reflect upon our <hi>Brethren</hi> (though of no concernment) to their diſhonour, which they con<g ref="char:EOLhyphen"/>ceiving theſe Papers do lay bold upon them as a fit opportunity to ſlander their reall and cordiall Endeavours for our peace and happineſſe; contrary to our <hi>Vow</hi> and <hi>Covenant,</hi> made with them before the Lord (<hi>Jeho<g ref="char:EOLhyphen"/>vah</hi>) whoſe Name is holy; which is of ſo lowe eſteeme in the words and thoughts of many, as if ſuch obligations were of ſo lowe an allay, that there were no neceſſity of keeping and obſerving them; contrary to the De<g ref="char:EOLhyphen"/>clarations of <hi>Parliament,</hi> and the profeſſions of our <hi>Independant</hi> Bre<g ref="char:EOLhyphen"/>thren; ſome of them having been imployed as <hi>Commiſſioners</hi> to crave the aſſiſtance of our <hi>Brethren</hi> of <hi>Scotland,</hi> and to manage that weightie buſineſſe of entring into a ſolemn <hi>League</hi> with them, which will more plainly be evidenced by taking a view, of the ſever all Declarations of the Honorable Houſes of <hi>Parliament,</hi> the Letters and Speeches of our <hi>In<g ref="char:EOLhyphen"/>dependant</hi> Brethren; an Extract of which, followeth.</p>
+            <closer>
+               <date>June 16. 1646.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb n="2" facs="tcp:113673:3"/>
+            <q>
+               <note place="margin">Declar. &amp; Reſol. of Parl.</note>
+               <seg rend="decorInit">T</seg>He Lords and Commons in <hi>Parliament,</hi> have with approbation and thanks, received from the Com<g ref="char:EOLhyphen"/>miſſioners of the Kingdom of <hi>Scotland,</hi> a clear ma<g ref="char:EOLhyphen"/>nifeſtation, of the reſpect, which the <hi>Lords</hi> of His Majeſties ſecret Counſell for that <hi>Realm</hi> do bear to the welfare and peace of this Kingdom, In the expreſſion of their affections, wherein they were pleaſed to ſe<g ref="char:EOLhyphen"/>cond the deſires of the Generall <hi>Aſſembly</hi> of that Church for <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>nity</hi> in <hi>Religion,</hi>
+               <note place="margin">Note.</note> and <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> in Church-Government, in His <hi>Majeſties</hi> three Kingdoms:—wherein as we have <hi>ſatisfied</hi> our own reaſon, ſo we hope we ſhall <hi>ſatisfie</hi> the loving and Chriſtian de<g ref="char:EOLhyphen"/>fires of our <hi>Brethren</hi> of <hi>Scotland;</hi>—And as we reſolve, according to the Nationall <hi>Covenant</hi> betwixt the two Kingdoms, to be care<g ref="char:EOLhyphen"/>full of the peace of <hi>Scotland</hi> as of our own, ſo we doubt not but their <hi>Lordſhips</hi> and the Nation of <hi>Scotland</hi> will be carefull to ex<g ref="char:EOLhyphen"/>preſſe their <hi>brotherly</hi> kindneſſe to us.—We acknowledge it an Act of love to us,<note place="margin">Note.</note> and of wiſdom for the good of both Churches— that our <hi>Brethren</hi> of <hi>Scotland</hi> have beſtowed their ſerious thoughts, and earneſt deſires for <hi>unity</hi> of <hi>Religion;</hi> that in all His <hi>Majeſties</hi> Dominions there might be one <hi>Confeſſion</hi> of Faith, one <hi>Directory</hi> of <hi>worſhip,</hi> one <hi>publick Catechiſme,</hi> and one <hi>form</hi> of <hi>Church-Government.</hi> And although it will hardly be obtained punctually and exactly,—yet both intending the ſame end, proceeding by the ſame rule of <hi>Gods Word,</hi> and guided by the ſame <hi>Spirit,</hi> we hope by <hi>Gods</hi> aſſiſtance to be ſo directed, that we may caſt out whatſoever is offenſive to <hi>God,</hi> or juſtly diſpleaſing to any neigh<g ref="char:EOLhyphen"/>bour Church, and ſo far agree with our <hi>Brethren</hi> of <hi>Scotland,</hi> and other reformed Churches, in all ſubſtantiall parts of <hi>Doctrine, Worſhip,</hi> and <hi>Diſcipline,</hi> that both we and they may injoy thoſe advantages and conveniences which are mentioned by them, in this their Anſwer, in the more ſtrict <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> of both Kingdoms, more ſafe, eaſie, and comfortable <hi>Government</hi> of His <hi>Majeſtie,</hi> &amp;c.— The main cauſe which hitherto hath deprived us of theſe and other great advantages, which we might have by a more cloſe <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> with the Church of <hi>Scotland,</hi>—is the Government by Bi<g ref="char:EOLhyphen"/>ſhops,
+<pb n="3" facs="tcp:113673:3"/>—(<hi>which</hi>) makes us deſperate of that moſt <hi>beneficiall</hi> and <hi>de<g ref="char:EOLhyphen"/>ſirable</hi> Conjunction, with them, untill this great impediment be removed, &amp;c.—Upon which we do declare,—that <hi>this Government</hi>— is evil, and juſtly offenſive.—And according to our former Decla<g ref="char:EOLhyphen"/>ration of the 7th of <hi>February</hi> our purpoſe is to conſult with godly and Learned <hi>Divines,</hi> that we may not onely remove this, but ſettle ſuch a <hi>Government,</hi> as may be moſt agreeable to <hi>Gods holy Word,</hi> moſt apt to procure and conſerve the peace of the Church at home, and happy <hi>union</hi> with the <hi>Church</hi> of <hi>Scotland,</hi> &amp;c.—This being the Reſolution of both Houſes of <hi>Parliament,</hi> we do deſire our <hi>Brethren</hi> of <hi>Scotland</hi> to concur with us in petitioning His <hi>Ma<g ref="char:EOLhyphen"/>jeſty,</hi> that his Royall Authority may be applied to the conſerva<g ref="char:EOLhyphen"/>tion of a firm <hi>unity</hi> between the two Kingdoms, and that they likewiſe will think good, to ſend to the ſame <hi>Aſſembly</hi> (of <hi>Divines which were to meet the fifth of Novemb.</hi>) ſome godly and learned <hi>Divines</hi> of that Church,<note place="margin">Note.</note> whereby an <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> in <hi>form</hi> of <hi>Church Government</hi> may be obtained, and thereby a more eaſie paſſage made to the ſetling of one <hi>confeſſion</hi> of faith, one <hi>Liturgie</hi> —of the publick worſhip, and one <hi>Catechiſme</hi> in all three Kingdoms. <bibl>A De<g ref="char:EOLhyphen"/>claration and Reſolution of Parliament, Sept. 23. 1642.</bibl>
+            </q>
+         </div>
+         <div type="proclamation">
+            <q>
+               <note place="margin">Declar. Parl. to Kingd. Scotl.</note> We Lords and Commons, &amp;c.— Do hereby declare to our <hi>Bre<g ref="char:EOLhyphen"/>thren</hi> the Eſtates and other Subjects of the Kingdom of <hi>Scotland,</hi> that not onely according to our reſolution and promiſe ſignified in our former Declarations, we have nominated and appointed <hi>Jo: Earl</hi> of <hi>Rutland,</hi> &amp;c.—To be Committees and Commiſſioners of both Houſes of <hi>Parliament</hi>—for ſetling all matters concerning <hi>Debts</hi> and <hi>Accounts,</hi> in which <hi>this Kingdom</hi> ſtands ingaged to <hi>them;</hi> but more eſpecially to deſire their <hi>preſent</hi> and <hi>ſpeedy</hi> aid and aſ<g ref="char:EOLhyphen"/>ſiſtance for ſecurity of <hi>Religion,</hi> and Liberty of both Kingdoms,—<note place="margin">Note.</note> being an effectuall means for preſerving the peace of both King<g ref="char:EOLhyphen"/>doms according to the late <hi>Act</hi> of <hi>Pacification,</hi> by which both States ſtand obliged to help one an other;—We do earneſtly re<g ref="char:EOLhyphen"/>queſt our <hi>Brethren</hi> of <hi>Scotland,</hi> to haſten the aid deſired, and to conſider, that although in theſe ſtraits and perplexities of want and danger, they ſhall not receive ſuch plentifull entertainment as might at other times be expected;<note place="margin">Note.</note> yet they cannot fail of great honour and advantage by this undertaking,—and they may reſt aſſured that in all opportunities the two Houſes of <hi>Parliament,</hi>
+               <pb n="3" facs="tcp:113673:4"/>and this <hi>Nation</hi> will be ready to expreſſe their thankfulneſſe, &amp;c. <bibl>A Declaration to the Kingdom and Eſtates of <hi>Scotland,</hi> Septemb. 13. 1643.</bibl>
+            </q>
+         </div>
+         <div type="proclamation">
+            <q>
+               <note place="margin">Declar. of Parl. to Aſſembly of Scot<g ref="char:EOLhyphen"/>land.</note> The Lords and Commons, &amp;c. acknowledging with humble thankfulneſſe to God—the Chriſtian <hi>zeal</hi> and <hi>love</hi> which the Ge<g ref="char:EOLhyphen"/>nerall Aſſembly of the Churches of <hi>Scotland</hi> have manifeſted in their pious endeavours, for the preſervation of the true reform<g ref="char:EOLhyphen"/>ed Proteſtant Religion, from the ſubtle practices and attempts of the Popiſh and Prelaticall party, to the neceſſarie <hi>reformation</hi> of <hi>Church Diſcipline</hi> and <hi>Government</hi> of <hi>this</hi> Kingdom, and the more neer <hi>union</hi> of both Churches,<note place="margin">Note.</note> do earneſtly deſire that <hi>Reverend Aſſembly</hi> to take notice that the two Houſes of <hi>Parliament</hi> fully concurring with them in thoſe pious intentions; &amp; for the better accompliſhment thereof, have called an <hi>Aſſembly</hi> of <hi>Divines,</hi> — and likewiſe nominated and appointed <hi>Jo: Earl</hi> of <hi>Rutland,</hi> &amp;c.— Committees and Commiſſioners of both Houſes to the King<g ref="char:EOLhyphen"/>dom and States of <hi>Scotland.</hi> Who—have received directions to reſort to the Generall Aſſembly of the Church of <hi>Scotland,</hi> and propound and conſult with them, or any Commiſſioners depu<g ref="char:EOLhyphen"/>ted by them, in all occaſions which may further the ſo much deſired <hi>Reformation</hi> in Eccleſiaſticall matters in <hi>this</hi> Church and Kingdom.—It is likewiſe deſired, that that <hi>Reverend Aſſembly</hi> will according to their former promiſe and Reſolution, ſend to the <hi>Aſſembly</hi> here, ſuch number of Godly and Learned Divines, as in their wiſdom they think moſt expedient for the furtherance of this work, which ſo much concerns the Honour of God, the proſperity and peace of the two Churches of <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land.</hi> 
+               <bibl>A Declaration, &amp;c. to the Generall Aſſembly of the Church of <hi>Scotland.</hi> Septemb. 13. 1643.</bibl>
+            </q>
+         </div>
+         <div type="letter">
+            <q>
+               <note place="margin">Mr <hi>Mar<g ref="char:EOLhyphen"/>ſhal</hi> and Mr <hi>Nyes</hi> Letter.</note> We cannot but communicate unto you the good hand of God with us in the work—imployed in—we have had to do with the Convention of States, and <hi>Aſſembly</hi> of <hi>Divines;</hi>—the <hi>graveſt</hi> and <hi>wiſeſt</hi> that we have ſeen, and who we think are more <hi>ſenſible</hi> of our <hi>Condition</hi> then we are our ſelves.<note place="margin">Note.</note> The leading men both of the <hi>Convention</hi> and <hi>Aſſembly,</hi>—and the whole body of the Nation looking upon it as the cauſe of Chriſt.—We know multitudes are prejudiced againſt them, as if we might expect no help from them but for their own ends,<note place="margin">Note.</note> but if you dare give any <hi>credit</hi> to
+<pb n="4" facs="tcp:113673:4"/>our <hi>faithfulneſſe,</hi> and moſt diligent inquiſition and obſervation, — let us prevail with you to beat down all ſuch <hi>unworthy</hi> thoughts and <hi>jealouſies</hi> of them, they are guided by <hi>God</hi> in this work, and we are perſwaded will bring glory to <hi>Chriſt,</hi> and <hi>requitall</hi> of all our former love to them.—<note place="margin">Note.</note> We ſcarce ever ſaw ſo much of <hi>Chriſt</hi> for us as this day in the Aſſemblies carrying of this buſineſſe. — Surely the arm of the <hi>Lord</hi> in this aſſiſtance extends it ſelf to<g ref="char:EOLhyphen"/>wards you, In the Mount the <hi>Lord</hi> will be ſeen. <bibl>A letter from Mr. <hi>Marſhall</hi> and Mr. <hi>Ny</hi> appointed Aſſiſtants to the <hi>Commiſſioners</hi> of <hi>Scotland.</hi> Edinb: Aug. 18. 1643.</bibl>
+            </q>
+         </div>
+         <div type="speech">
+            <q>
+               <note place="margin">Mr <hi>Nye</hi> his Speech.</note> The Goodneſſe of <hi>God</hi> procuring ſuccour and help to a ſinfull people, ought to be matter of fear and trembling, even to all that hear of it: <hi>Jer.</hi> 33.9. We are to exalt and acknowledge him this day who is fearfull in praiſes, ſwear by that Name which is holy and reverent, enter into a <hi>Covenant</hi> and <hi>League</hi> that is never to be forgotten by us, nor our poſterity.—<note place="margin">Note.</note> And ſuch an <hi>Oath</hi> as for matter, perſons, and other circumſtances, the like hath not been in any <hi>Age</hi> or <hi>Oath</hi> we read of in ſacred or humane ſtories, yet ſufficiently warranted in both.—Conſort and Harmony a<g ref="char:EOLhyphen"/>mongſt men, eſpecially amongſt Saints, is very pleaſing unto the <hi>Lord.</hi> It when but two or three agree and aſſent unto any thing on earth, it ſhall be confirmed in heaven: And for this becauſe they gather together in his <hi>Name,</hi> much more when two or three <hi>Kingdoms</hi> ſhall meet and conſent together in his <hi>Name,</hi> and for his <hi>Name,</hi> that <hi>God</hi> may be one, and his Name one amongſt them. <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> amongſt his Churches and children,<note place="margin">Note.</note> muſt needs—be very acceptable unto him:—We invocate the Name of the great God that his vows, yea, his curſe may be upon us if we do not this; yea though we ſuffer for ſo doing,—that is,—to advance the king<g ref="char:EOLhyphen"/>dom of—Chriſt here upon earth, and make Jeruſalem once more the praiſe of the whole earth, notwithſtanding all the contra<g ref="char:EOLhyphen"/>dictions of men. What is this but the contents and matter of our <hi>Covenant?</hi> What do we vow?—Is it not the reformation of three Kingdoms, and a <hi>reformation</hi> univerſall doctrine, <hi>Diſcipline,</hi>
+               <note place="margin">Note.</note> and <hi>worſhip</hi> in whatſoever the Word ſhall diſcover to us.—And if in the Churches of <hi>Scotland</hi> any more Light and beauty in matters of <hi>Order</hi> and <hi>Diſcipline,</hi> by which their <hi>Aſſemblies</hi> are more order<g ref="char:EOLhyphen"/>ly: —we ſhall humbly bow and kiſſe their lips that can ſpeak
+<pb n="6" facs="tcp:113673:5"/>right words unto us in this matter, and help us into the neareſt <hi>uniformity</hi> with the word and minde of <hi>Chriſt,</hi> in this great work of <hi>Reformation.</hi>—This <hi>Oath</hi> is ſuch, and in the matter and conſe<g ref="char:EOLhyphen"/>quence of it, of ſuch concernment, as I can truly ſay, it is wor<g ref="char:EOLhyphen"/>thy of us, yea of all theſe Kingdoms, yea of all the Kingdoms of the world.—And ſurely it can be no other, but the reſult and An<g ref="char:EOLhyphen"/>ſwer of ſuch prayers and tears of ſuch ſincerity and ſufferings, that three Kingdoms ſhould be thus born, or rather new born in a day;<note place="margin">Note.</note> we are now entring upon a work of the greateſt moment, and concernment to us, and to our poſterity after us, that ever was undertaken by any of us, or any of our forefathers, before us, &amp;c.—It is a duty of the firſt Commandment, and therefore of the higheſt and nobleſt order and rank of duties; therefore muſt come forth attended with choiceſt graces. Fear, Humility, and in the greateſt ſimplicity and plainneſſe of ſpirit in reſpect of <hi>thoſe</hi> with whom we <hi>Covenant:</hi>
+               <note place="margin">Note.</note> we call God as a witneſſe betwixt us, who ſearcheth the heart, <hi>With him wiſdom and ſtrength, the decei<g ref="char:EOLhyphen"/>ved, and deceiver is his.</hi> Job 12.19. He hath wiſdom to diſcover, and ſtrength to puniſh, if our hearts be not upright to our <hi>Brethren</hi> in this matter.—As it is the laſt oath you are likely to take in this kinde, ſo it is our laſt refuge, <hi>tabula poſt naufragium:</hi> if this help us not, we are like to remain to our dying day an unhappy peo<g ref="char:EOLhyphen"/>ple, &amp;c.—And as for you, <hi>Reverend Brethren,</hi> that are Miniſters of the Goſpel, there is yet an other obligation will lye upon you; let us look to our ſelves, and make proviſion to walk anſwerable to this our <hi>Covenant,</hi>
+               <note place="margin">Note.</note> for the Goſpels ſake; it will reflect a great aſperſion upon the truth of the Goſpel; if we ſhould be <hi>falſe</hi> or <hi>un<g ref="char:EOLhyphen"/>conſtant</hi> in any <hi>word</hi> or <hi>promiſe,</hi> though in a matter of leſſe conſe<g ref="char:EOLhyphen"/>quence, &amp;c. <bibl>Mr <hi>Ny</hi> Speech at the taking of the <hi>Covenant</hi> by the <hi>Parliament</hi> and <hi>Aſſembly</hi> of <hi>Divines,</hi> Septemb. 25. 1643.</bibl>
+            </q>
+         </div>
+         <div type="speech">
+            <q>
+               <note place="margin">Mr. Soli<g ref="char:EOLhyphen"/>citor his Speech.</note> I conceive there is no need to acquaint you with the benefits that will redound to this Kingdom, and the <hi>advantages</hi> we ſhall have by a nearer <hi>aſſociation</hi> with <hi>them,</hi> and by their <hi>coming</hi> in, to this purpoſe for <hi>our</hi> aſſiſtance.—This great <hi>Cauſe</hi> now in agitation by this means will be much ſecured; it will be aſſured to us, that the Event and the ſucceſſe of it will be made a great deal the cer<g ref="char:EOLhyphen"/>tainer; —Thus we ſtand in caſe <hi>they</hi> are not called in, the loſſe ſo great, that is the loſſe of all, the event is ſo uncertain. Secondly,
+<pb n="7" facs="tcp:113673:5"/>it will be for <hi>our</hi> profit, it will eaſe the warre,<note place="margin">Note.</note> it will make the charge, and the burthen of it to be leſſe;—without their coming, I am afraid there will not be that force on the one ſide, as to make the other ſide out of their <hi>eſtates</hi> to pay theſe <hi>debts,</hi> which their coming in, in all likelihood will make them do; which if theſe <hi>debts</hi> be paid out of their <hi>eſtates</hi> and <hi>land,</hi> I know no incon<g ref="char:EOLhyphen"/>venience will come to the Kingdom by it;—If <hi>they come not in,</hi> con<g ref="char:EOLhyphen"/>ſidering the ingagements on both ſides, and conſidering the par<g ref="char:EOLhyphen"/>ties, who we muſt compound with, I ſay, the cure is like to be very imperfect; their coming in, I hope,<note place="margin">Note.</note> will make it perfect.—So that if there were nothing elſe in it, but that we were like to have the better <hi>peace,</hi> and on the better <hi>terms,</hi> and what ever it be, it is likely to be kept the better, to us and our poſteritie, that were much to our advantage.—We have it from <hi>our</hi> own <hi>Committee</hi> there, and from all hands, that it is impoſſible (<hi>they ſhould under<g ref="char:EOLhyphen"/>take for our aſſiſtance</hi>) without ſome ſum of money; And if we con<g ref="char:EOLhyphen"/>ſider how they have been exhauſted heretofore,<note place="margin">Note.</note> I think we may eaſily beleeve it,—their Army that is in Ireland having been 14 months without any pay at all, they are fain to ſupply them with neceſſities, which hath been <hi>fourſcore thouſand pounds,</hi> elſe that Army muſt have ſtarved. We know they had two yeers war, we promiſed them a <hi>Brotherly</hi> aſſiſtance, and there is an <hi>Act</hi> for it, but it is known, by reaſon of the troubles we have here at home <hi>we have not payd them that;</hi> ſo that conſidering the poverty of <hi>that</hi> Kingdom, it is certain, it is not a pretence of theirs (for not com<g ref="char:EOLhyphen"/>ing) but it is really ſo. <bibl>
+                  <hi>Mr Solicitor</hi> his Speech at Guildhall, Fri<g ref="char:EOLhyphen"/>day, Octob. 6. 1643.</bibl>
+            </q>
+         </div>
+         <div type="speech">
+            <q>
+               <note place="margin">Mr <hi>Bur:</hi> his Speech.</note>There hath lately been the moſt bleſſed <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> of two <hi>Nations,</hi> as ever was in the world,—let us now reach forth our hearts and hands unto our <hi>Brethren</hi> in <hi>Scotland,</hi> let us come up fully to this our Engagement, and rejoyce in it,<note place="margin">Note.</note> for certainly that <hi>Nation</hi> is a <hi>Nation</hi> that <hi>God</hi> doth <hi>love,</hi> a <hi>Nation</hi> that <hi>God</hi> doth <hi>honour,</hi> and by thoſe many expreſſions of his love, ſhewed that he doth intend to make them <hi>ſpeciall inſtruments</hi> of the great things he hath to do, in this latter age of the world; It is a <hi>Nation</hi> that is <hi>united</hi> the moſt <hi>firmly</hi> under heaven, we may truly cal it a<note n="*" place="margin">A name that contains in it ſelf al vertues, Commended for Brotherly love.</note> 
+               <hi>Philadelphia.</hi>—Had we had the like <hi>union</hi> amongſt us,<note place="margin">
+                  <hi>Bright:</hi> on Revel.</note> O what great things had we done long before this time. A <hi>Nation</hi> it is that hath engaged it ſelf to <hi>God</hi> in a higher way, in a more extraordinary way,<note place="margin">Note.</note> then
+<pb n="8" facs="tcp:113673:6"/>any <hi>Nation</hi> this day upon the face of the earth hath done;—A <hi>Nation</hi> that hath reformed their lives for ſo ſmall a time, more then ever any people that we know of in the world have done;— A <hi>Nation</hi> that <hi>God</hi> hath <hi>honoured</hi> by giving as glorious ſucceſſe unto, as ever he did unto any;—And although they be of them<g ref="char:EOLhyphen"/>ſelves a poore people, and of little ſtrength,—yet they have kept the <hi>word</hi> of <hi>Gods</hi> patience, and <hi>God</hi> hath kept them in the houſe of temptation; God therefore is with them. (How happy ſhould we be, if we may have them in a near <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> with us?) A people that have carried themſelves,<note place="margin">Note.</note> with as great <hi>wiſdom,</hi> and <hi>order</hi> in the moſt difficult work that ever a people did undertake, in thoſe by and intricate paths that were before untroden.<note place="margin">Note.</note> —Was there ever ſuch an Example ſince the world began, of a people coming out of a <hi>poorer Countrey,</hi> into a <hi>fat</hi> and <hi>rich Countrey,</hi> and having thoſe <hi>opportunities</hi> that <hi>they</hi> had to <hi>enrich</hi> themſelves, to go away ſo as <hi>they</hi> did?—A people—that began to riſe for their <hi>Liberties,</hi> when the generality of this people here, were ready <hi>baſely</hi> to bow down their <hi>backs,</hi> and put their <hi>necks</hi> under the <hi>yoke:</hi> and had it not been that <hi>they</hi> had been willing to have endured the <hi>brunt we</hi> had all been <hi>ſlaves</hi> at this day.—They now deſire 100000 l. what is this to 300000 l. in pay? to five Counties, to the plunder of a whole City? what <hi>reaſonable</hi> terms do they proffer to come among you? Do but give them 100000 l. advance, and they engage themſelves for three moneths and ten dayes, and in the Winter time to be in the Kingdom,—and willing to depart again with<g ref="char:EOLhyphen"/>out any more, when they have done their work. <bibl>Mr <hi>Jer. Burroughs</hi> Speech in Guildhall, Friday Octob. 6. 1643.</bibl>
+            </q>
+         </div>
+         <div type="speech">
+            <q>
+               <note place="margin">Sir <hi>H: Vanes</hi> Speech.</note>In obedience, to the Commands of both Houſes, we that are lately come out of <hi>Scotland,</hi> and have been <hi>eye</hi> witneſſes of the af<g ref="char:EOLhyphen"/>fection of that <hi>Nation</hi> to <hi>this</hi> Cauſe, and of the deep ſence they have, of the preſent ſtate of affairs, here in <hi>this</hi> Kingdom, are wil<g ref="char:EOLhyphen"/>ling to make the ſame report,—to you of it as hath been done to the <hi>Parliament,</hi> that you may take a right meaſure of thoſe things, and not be carried away with <hi>miſ-apprehenſions,</hi> and <hi>miſ-informations</hi> from thoſe that diſaffect the Cauſe, and would wil<g ref="char:EOLhyphen"/>lingly abuſe your thoughts, and belief herein.—For the <hi>affection</hi> of that <hi>Nation,</hi> we have had many experiences of it, and of their ready and chearfull complyance, with the deſires of this King<g ref="char:EOLhyphen"/>dom, even when they were in their greateſt diſtreſſes and cala<g ref="char:EOLhyphen"/>mities:
+<pb n="9" facs="tcp:113673:6"/>—The affairs then of <hi>this Nation</hi> were in a much lower condition then now we find them to be, yet notwithſtanding thoſe many <hi>invitations,—promiſes,</hi>—<note place="margin">Note.</note> and— <hi>ſecret</hi> practices among <hi>themſelves,</hi> to make them ſet looſe from the <hi>Cauſe</hi> of <hi>this</hi> Kingdom, yet ſo ſenſible were they of the danger of <hi>Religion</hi> here, of the near relation they had to their <hi>Brethren</hi> of <hi>England,</hi> —that they were ready to break through all <hi>difficulties,</hi> and to expoſe them<g ref="char:EOLhyphen"/>ſelves to all <hi>danger</hi> to take us by the hand, and to joyn cordially with us in the maintaining of this Cauſe.—<hi>And that they might evidence the truth of their intentions, they ſpeedily enter into</hi> COVENANT <hi>with us.</hi>) And this not onely in their <hi>own</hi> perſons, but injoyned it throughout the whole Kingdom,—(and) in ſuch a manner, as that the greateſt and powerfulleſt Enemies of it among them durſt not ſhew their heads to oppoſe it.<note place="margin">Note.</note> —They are as ſenſible as your ſelves of the great burthen and extremities that this Nation doth at this time groan under,—(though) their Nation hath not been without troubles,—great <hi>charges</hi> and <hi>burthens</hi> that have lain upon them, and <hi>particularly</hi> even for the advantage of <hi>this King<g ref="char:EOLhyphen"/>dom:</hi> —(Beſides) they have made it apparent by ſeverall particu<g ref="char:EOLhyphen"/>lars,<note place="margin">Note.</note> that before this Army—will be brought to the Rendevouze upon <hi>Engliſh</hi> ground,—it will ſtand them in very neer a 100000 l. which muſt be at their <hi>own</hi> charge and expence, <hi>over and above</hi> what they deſire from us: They likewiſe have let us know, that they deſire not to preſſe us beyond our ſtrength in matter of mo<g ref="char:EOLhyphen"/>neys, but onely ſo much as may render the ſervice in them feaſ<g ref="char:EOLhyphen"/>able, which <hi>we</hi> expect from them.—<note place="margin">Note.</note> They are—ſo willing in <hi>them<g ref="char:EOLhyphen"/>ſelves</hi> to come to <hi>our</hi> aſſiſtance,—that if any thing lay in their power, either by the <hi>morgaging</hi> of their own private <hi>Eſtates,</hi> or if there were money ſufficient in <hi>Scotland,</hi> that they could render themſelves maſter of, they would be willing to contribute any thing of <hi>their</hi> own for the neceſſities of <hi>this</hi> Kingdom, ſo much they are affected with this Cauſe. <bibl>Sir <hi>Henry Vanes</hi> Speech at a Common Hall, London, Octob. 27 1643.</bibl>
+            </q>
+         </div>
+         <div type="treaty">
+            <q>
+               <p>The Kingdom of <hi>England</hi> is to pay in ready money to their <hi>Brethren</hi> of <hi>Scotland</hi>—the ſum of 100000 l. ſterling—by way of ad<g ref="char:EOLhyphen"/>vance beforehand,<note place="margin">Note.</note> which is to be <hi>diſcounted</hi> back again unto the Kingdom of <hi>England</hi> by the Kingdom of <hi>Scotland</hi> upon the firſt monthly allowance which ſhall grow due to the Scottiſh Army, &amp;c.</p> 
+               <bibl>
+                  <hi>Article 6.</hi>
+               </bibl>
+               <pb n="10" facs="tcp:113673:7"/>
+               <p>No <hi>Ceſſation,</hi>
+                  <note place="margin">Note.</note> nor any <hi>Pacification</hi> or agreement for <hi>Peace</hi> what<g ref="char:EOLhyphen"/>ſoever ſhall be made by <hi>either</hi> Kingdom, or the <hi>Armies</hi> of <hi>either</hi> Kingdom, without the mutuall advice and conſent of <hi>both</hi> King<g ref="char:EOLhyphen"/>doms, or <hi>their</hi> Committees in that behalf appointed.</p> 
+               <bibl>
+                  <hi>Article</hi> 8.</bibl>
+               <bibl>Articles of the Treaty agreed upon betwixt the Commiſſioners of the Parliament of England, and the Commiſſioners of the Convention of the Eſtates of the Kingdom of Scotland, at Edin. Nov: 29. 1643.</bibl>
+            </q>
+         </div>
+         <div type="proclamation">
+            <q>It was far from <hi>our</hi> Intentions that the <hi>Scottiſh</hi> Army ſhould neither be <hi>provided</hi> for by us,<note place="margin">Note.</note> nor yet ſuffered to <hi>provide</hi> for <hi>their</hi> own ſubſiſtance, &amp;c. <bibl>The Parliaments Anſwer to the Scots Com<g ref="char:EOLhyphen"/>miſſioners Papers. Printed April 14. 1646.</bibl>
+            </q>
+         </div>
+         <div type="proclamation">
+            <q>
+               <note place="margin">Deciar: of Parl.</note>We do declare, that our true and reall Intentions are, and our endeavours ſhal be to ſettle <hi>Religion</hi> in the purity thereof, accor<g ref="char:EOLhyphen"/>ding to the <hi>Covenant:</hi>—And to keep a good underſtanding be<g ref="char:EOLhyphen"/>tween the two Kingdoms of <hi>England</hi> and <hi>Scotland,</hi> according to the grounds expreſſed in the ſolemn <hi>League</hi> and <hi>Covenant,</hi> and <hi>Treaties:</hi> Which we deſire may be inviolably obſerved on both parts. <bibl>A Declaration of Parliament, April 17. 1646.</bibl>
+            </q>
+         </div>
+         <div type="conclusion">
+            <p>If any man ſhall except againſt this my endeavour,<note place="margin">Conclu<g ref="char:EOLhyphen"/>ſion.</note> I deſire him to remember, the tenour of our <hi>Covenant</hi> binds me as well as o<g ref="char:EOLhyphen"/>thers to uſe all <hi>lawfull</hi> means, to accompliſh the end of our <hi>Cove<g ref="char:EOLhyphen"/>nant,</hi> and this I conceive derogates no whit from the rule; nay, it is belowe a <hi>Chriſtian</hi> not to attempt a matter of <hi>publick</hi> con<g ref="char:EOLhyphen"/>cernment for <hi>fear</hi> of being miſ-judged. I ſhall winde up all with thoſe two obſervable paſſages <hi>in Mr Burroughs Irenicum.</hi> One you ſhall find in <hi>p.</hi> 11. <hi>Truth</hi> is the bond, that keeps to <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> but <hi>Er<g ref="char:EOLhyphen"/>rour</hi> is wilde, you know not where to find it, nor your ſelves if you give way to it. The other is in <hi>pa.</hi> 276. <hi>Peace</hi> it was the chief maſter-piece of <hi>Gods</hi> work, there is more of the glory of <hi>God</hi> in this, then in all that <hi>God</hi> hath done: This is and ſhall be the <hi>ob<g ref="char:EOLhyphen"/>ject</hi> of the admiration of <hi>Angels</hi> and <hi>Saints,</hi> the matter of their praiſes to all eternity. This being ſo, how neerly doth it concern thoſe that ſhall be <hi>heirs</hi> of the ſame kingdom, <hi>partakers</hi> of the ſame glory, <hi>Saints in light,</hi> to make it their chief ſtudy to keep the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of the <hi>Spirit</hi> in the bond of <hi>peace.</hi>
+               <note place="margin">Epheſ. 4.3</note> Epheſ. 4.3.</p>
+            <p>Τελος.</p>
+            <pb facs="tcp:113673:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
